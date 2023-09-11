@@ -5,7 +5,7 @@ No intuito de entender angular, separei alguns dos tópicos mais discutidos na c
 - [ ] Componentes
 - [ ] Componente Lifecycle (hooks)
 - [ ] Input & Output
-- [ ] Rotemamento
+- [ ] Roteamento
 - [ ] Paradigma reativo (entender observable, pipe sync, rotas)
 - [ ] Services - observable
 - [ ] Templates
